@@ -9,6 +9,3 @@ while len(nama_tamu) > 2:
 
 for tamu in nama_tamu:
     print(f'{tamu}, Anda tetap diundang untuk makan malam.')
-
-del nama_tamu[0:2]
-print(nama_tamu)

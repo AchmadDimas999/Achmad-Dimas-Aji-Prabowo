@@ -5,9 +5,9 @@ bahasa_favorit = {
     "Rina": "Python",
 }
 
-orang_yang_diharapkan = ["Sarah", "Dimas", "Linus", "Rina", "Nadia"]
+orang_yang_mengisi = ["Sarah", "Dimas", "Linus", "Rina", "Nadia"]
 
-for nama in orang_yang_diharapkan:
+for nama in orang_yang_mengisi:
     if nama in bahasa_favorit:
         print(f"Terima kasih, {nama}, sudah mengisi jajak pendapat.")
     else:

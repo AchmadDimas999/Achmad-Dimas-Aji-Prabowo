@@ -5,5 +5,5 @@ if alien_color == "green":
 
 alien_color = "red"
 
-if alien_color == "green":
-    print("Kamu mendapatkan 5 poin!")
+if alien_color == "red":
+    print("Kamu mendapatkan 10 poin!")

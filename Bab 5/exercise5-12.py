@@ -1,5 +1,5 @@
 usia = 20
-memiliki_tiket = True
+memiliki_tiket = False
 
 if usia >= 18 and memiliki_tiket:
     print("Silakan masuk.")
