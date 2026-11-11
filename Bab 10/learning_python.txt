@@ -1,0 +1,4 @@
+In Python you can store information in variables and use different data types.
+In Python you can make decisions with conditional statements.
+In Python you can repeat tasks with loops and organize code with functions.
+In Python you can create classes to model real-world objects.
